@@ -1,9 +1,9 @@
 # 2 layer neural network
 * implement a 2 layer neral network without any libraries and from scratch.
 * using mnist handwritten numbers dataset.
-* label numbers greater or equal to5 , 1 and less than 5 to 0. 
+* label numbers greater than or equal to 5, to 1 and less than 5, to 0. 
 
-## Steps
+# Steps
 
 ### Activation Function
 * sigmoid(z) = 1/(1+<img src="https://render.githubusercontent.com/render/math?math=e^{-z}">)
