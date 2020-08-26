@@ -1,2 +1,2 @@
-# Neural-Network-Projects
+# Neural Network Projects
 mini-useful NN projects implemented using python
