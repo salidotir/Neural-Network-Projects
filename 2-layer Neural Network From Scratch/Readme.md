@@ -1,7 +1,8 @@
 # 2 layer neural network
 * implement a 2 layer neral network without any libraries and from scratch.
 * using mnist handwritten numbers dataset.
-* label numbers greater than or equal to 5, to 1 and less than 5, to 0. 
+* attach label 1 to numbers greater than or equal to 5
+* attach label 0 to numbers less than 5
 
 # Steps
 
